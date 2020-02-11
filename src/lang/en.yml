@@ -5603,7 +5603,7 @@ GADGETS_111_LORE:
 - '§7One grunt and its GG for you'
 GADGETS_112_NAME: 'Cow'
 GADGETS_112_LORE:
-- '§7У коровы нет других забот (c)'
+- '§7The cow has no other worries (c)'
 GADGETS_113_NAME: 'Squid'
 GADGETS_113_LORE:
 - '§7bloop-bloop'
@@ -5629,8 +5629,8 @@ GADGETS_119_NAME: 'Bonnie'
 GADGETS_119_LORE:
 - '§7Ну, заяц, ну погоди! (c)'
 GADGETS_120_LORE:
-- '§7Пусть мама услышит,'
-- '§7пусть мама придёт (c)'
+- '§7Let mom hear,'
+- '§7let mom come (c)'
 GADGETS_121_NAME: 'Koala'
 GADGETS_121_LORE:
 - '§7Dont use eucalyptus as toilet paper.'
@@ -5691,8 +5691,8 @@ GADGETS_138_LORE:
 - '§7usually'
 GADGETS_139_NAME: 'White wizard'
 GADGETS_139_LORE:
-- '§7Нет, он не новый.'
-- '§7Его стирали Лаской (c)'
+- '§7No he's not new.'
+- '§7It was washed by weasel (c)'
 GADGETS_140_NAME: 'Miner'
 GADGETS_140_LORE:
 - '§7..no pickaxe alongside'
@@ -5757,7 +5757,7 @@ PROTECTION_FLAG_HORUS: 'Protection against chorus'
 
 ENCHANTED_BOOK_ERROR: '§6Enchanted §8| §fError, you need §a%s §flevel, to enchanted this enchantments on item'
 
-PROTECTION_MEMBERS_GUI_NAME: 'Участники'
+PROTECTION_MEMBERS_GUI_NAME: 'Members'
 
 PROTECTION_UPGRADE_SIDE_SUCCES_TO: '§6Anarchy §8| §fPrivate §7%s §fextended to §a%s §fblocks by coordinates §7X §fи §7Z §fby %s'
 PROTECTION_UPGRADE_SIDE_SUCCES: '§6Anarchy §8| §fPrivate §7%s §fsuccesfully extended to §a%s §fblocks by coordinates §7X §fи §7Z'

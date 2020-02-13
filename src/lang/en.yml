@@ -17,66 +17,7 @@ RULES_COMMAND_HOVER: '§fClick here to open url'
 
 NO_PERMS: '§cYou do not have permission'
 NO_PERMS_GROUP: '§cYou do not have permission, buy %s§c or higher'
-NO_PERMS_SHULKER_ONLY: '§cYou do not have permission, this function is only for §7§lSHULKER'
-
-PLAYER_LEFT: '§fPlayer %s§f has left the game'
-PING: '§6Server §8| §fYour ping is §a%s §fms'
-
-ANARCHY_KILL_MOB: '§6+%s %s for killing a mob'
-
-UNKNOWN: 'Unknown'
-ANSWER_YES: 'Yes'
-ANSWER_NO: 'No'
-ABSENT: 'Absent'
-
-HOLO_TOP_ALL:
-- '§6§l%s'
-- '§fPlayer top (for victories)'
-- '§fFor §eALL TIMES'
-HOLO_TOP_MONTHLY:
-- '§6§l%s'
-- '§fPlayer top (for victories)'
-- '§fFor §e%s'
-
-JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §6has joined to the server'
-
-NO_FOUND_PLAYER: '§cPlayer %s§c was not found or they are offline'
-NO_NEVER_PLAYER: '§cError, player %s has never played at server'
-
-PAGE_ARROW_GUI: 'page'
-PAGE_ARROW1: '§aNext page'
-PAGE_ARROW2: '§aPrevious page'
-PAGE_ARROW_LORE:
-- '§7Click to go'
-- '§7on %s page'
-
-KEY_BOX: '%sYou have %s %s'
-BOX_NAME: 'Lucky Chest'
-BOX_SUB_NAME: '§7Click to open'
-BOX_NO_KEY: '§cYou do not have keys'
-BOX_WORK: '§cWait... Someone is opening the chest!'
-BOX_OPEN_YOU: '§fYou started opening a chest...'
-BOX_WINNER: '§fYou have won %s§f item %s'
-BOX_WINNER_OTHER: '%s §fhas won %s§f item %s'
-BOX_KEYS: '§dKeys §f(§6+%s§f)'
-BOX_EXP: '§eexperience §f(§a+%s§f)'
-BOX_MONEY: '§aCoins §f(§6+%s§f)'
-
-ENABLE: 'Enable'
-DISABLE: 'Disable'
-
-COOLDOWN: '§cWait %s§c %s to use that'
-COOLDOWN_2: '§cWait %s to use that'
-AFK: '§cDo not stay on the same place!'
-
-BALANCE: '§6Balance §8| §fYou have §a%s §f%s and §e%s §f%s'
-LIST_CMD: '%s§fOn the server §a%s §f%s: %s'
-
-MESSAGE_NOT_FOUND: '§cMessage %s was not found'
-NOT_BEST_SERVER: '§cNot the best server'
-
-HOLO_TOP_MAIN: '§7Click to view another'
-
+ыв
 HOLO_INFO_LOBBY:
 - '§fClick on §6NPC§f,'
 - '§fto start the game §7[LMС]§f,'
@@ -4404,7 +4345,7 @@ JOIN_MESSAGE_LORE:
 JOIN_MESSAGE_LORE_SELECT: '§aMessage selected'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Click to select'
 JOIN_MESSAGE_LORE_NOT_AVAILABLE: '§cThis message is not available for you'
-LIMBO_NO_CHAT: '§6Сервер §8| §fSorry, you can not use §achat§f. To back to main lobby use §7/hub §for §7/lobby'
+LIMBO_NO_CHAT: '§6Server §8| §fSorry, you can not use §achat§f. To back to main lobby use §7/hub §for §7/lobby'
 LIMBO_ITEM_NAME: 'Back to main lobby'
 LIMBO_ITEM_LORE:
 - '§7Use this item to back to'

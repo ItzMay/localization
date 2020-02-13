@@ -4404,7 +4404,7 @@ JOIN_MESSAGE_LORE:
 JOIN_MESSAGE_LORE_SELECT: '§aMessage selected'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Click to select'
 JOIN_MESSAGE_LORE_NOT_AVAILABLE: '§cThis message is not available for you'
-LIMBO_NO_CHAT: '§6Сервер §8| §fSorry, you can not use §achat§f. To back to main lobby use §7/hub §for §7/lobby'
+LIMBO_NO_CHAT: '§6Server §8| §fSorry, you can not use §achat§f. To back to main lobby use §7/hub §for §7/lobby'
 LIMBO_ITEM_NAME: 'Back to main lobby'
 LIMBO_ITEM_LORE:
 - '§7Use this item to back to'
